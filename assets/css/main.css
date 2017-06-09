@@ -1,0 +1,219 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Cormorant SC', serif;
+}
+
+/* diseño de sección bienvenida*/
+
+.section-welcome{
+	background-image: url(../img/portada.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#koala{
+	color: whitesmoke;
+}
+
+.section-welcome h1{
+	padding-top: 2em;
+	font-weight: 600;
+	font-size: 40px;
+	text-align: left;
+}
+
+.section-welcome p{
+	padding-top: 2em;
+	font-size: 25px;
+	font-weight: 400;
+	text-align: left;
+	width: 30%;
+}
+
+.section-welcome button{
+	background-color: #06500F;
+	margin-right: 1000px;
+	width: 80px;
+	border-radius: 5px;
+}
+
+.section-welcome.button-boots{
+	background-color: black;
+	color: whitesmoke;
+	width: 100px;
+}
+
+/*diseño para sección two*/
+
+.section-two{
+	background-color: #FFF;
+	padding: 5em 0;
+	display: inline;
+}
+
+.title-second{
+	color: #898C25;
+}
+
+.features{
+	padding: 0.8em;
+}
+
+.section-two p{
+	padding: 0;
+	margin-bottom: 1em;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 28px;
+	color: #666;
+	margin-top: 1em;
+}
+
+/*diseño para sección tres*/
+
+.section-tres{
+	background-color: #888830;
+}
+
+.title-tres{
+	color: #1E4B04;
+}
+
+.section-tres p{
+	padding: 0;
+	margin-bottom: 1em;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 28px;
+	color: whitesmoke;
+	margin-top: 1em;
+}
+
+.section-tres button{
+	color: whitesmoke;
+	background-color: #06500F;
+	margin-right: 1000px;
+	width: 80px;
+	border-radius: 5px;
+}
+
+.section-tres img{
+	margin-left: 690px;
+	margin-top: -200px;
+	border: white 5px solid;
+	background-position:center;
+}
+
+/* diseño de sección four*/
+
+.section-four{
+	background-image: url(../img/all.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#four{
+	color: whitesmoke;
+}
+
+.section-four h1{
+	font-weight: 600;
+	font-size: 30px;
+	text-align: left;
+}
+
+.section-four p,
+.section-four h3{
+	font-size: 15px;
+	font-weight: 400;
+	text-align: left;
+	width: 30%;
+	margin-top: 5px;
+}
+
+/*diseño para sección five*/
+
+.section-five{
+	background-color:#FFF;
+	padding: 5em 0;
+}
+
+.section-five h1{
+	color: #898C25;
+}
+
+.section-five p{
+	font-weight: 300;
+	font-size: 18px;
+	color: black;
+	display: inline;
+	padding: 10px;
+	margin-bottom: 10px;
+	width: 100%;
+	float: right;
+}
+.section-five i{
+	width: 50px;
+	height: 40px;
+	color: #888830;
+}
+
+/* diseño de sección six*/
+
+.section-six{
+	background-color: #888830;
+}
+
+.section-six h1{
+	color: #1E4B04;
+	margin-left: 20px;
+}
+
+.section-six p{
+	padding: 0;
+	margin-bottom: 1em;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 28px;
+	color: black;
+	margin-top: 1em;
+	margin-left: 20px;
+	background-position: center;
+}
+
+.section-six button{
+	color: whitesmoke;
+	background-color: #06500F;
+	margin-right: 1000px;
+	width: 80px;
+	border-radius: 5px;
+	margin-left: 20px;
+}
+
+.precios{
+	color: whitesmoke;
+	font-size: 28px;
+	font-weight: 400;
+	margin-left: 20px;
+}
+
+.line{
+	border-top: 1px solid white;
+}
+
+/*diseño para sección footer*/
+
+footer{
+	background-color: #59AA2B;
+	padding: 5em 0;
+	width: 100%;
+}
+
+#first-parraf p{
+	color: white;
+}
