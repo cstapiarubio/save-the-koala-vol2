@@ -211,6 +211,11 @@
 	border-top: 1px solid white;
 }
 
+.well{
+	background-color: #B6F2C8;
+	color: black;
+}
+
 /*diseño para sección footer*/
 
 footer{
